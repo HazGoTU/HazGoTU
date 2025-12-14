@@ -1,7 +1,7 @@
 ## Hi there 🙌🙌
 ## ...Welcome to my Hut
 ### ..Just Watching and enjoy
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZocW52MXp2eXZwNDhtcWZ2dXR4YzFpd3dvazl3cjE0eXBkcjBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbIwskRsr94d8UV1KC/giphy.gif)
+![]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZocW52MXp2eXZwNDhtcWZ2dXR4YzFpd3dvazl3cjE0eXBkcjBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GbIwskRsr94d8UV1KC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVkYXI2cXIydTBmNzkzNjZpZWF1NmRzNzZ2eXp1M3Y3NGY1ZG83bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnrXFSsd0I8quMU/giphy.gif))
 
 <!--
 **HazGoTU/HazGoTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
