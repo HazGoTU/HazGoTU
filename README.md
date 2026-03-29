@@ -2,7 +2,7 @@
 ## ...Welcome to my Hut
 ### ..Just Watching and enjoy
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVkYXI2cXIydTBmNzkzNjZpZWF1NmRzNzZ2eXp1M3Y3NGY1ZG83bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnrXFSsd0I8quMU/giphy.gif)
-
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mzc4b2QwOHExaXFzNnBic2w4M3llOTQ0MzY0MnJqeW0yNmpoYWg5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xunRezGKPOkcG4/giphy.gif)
 <!--
 **HazGoTU/HazGoTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
